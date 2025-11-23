@@ -4,3 +4,5 @@ The project "Timpuri Noi on Old Roads" was created for the 12th grade final comp
 The project entails creating an interactive web application, designing a relational database, and analyzing pedestrian and traffic flow. The database, which I wrote mostly in SQL, monitors traffic lights, waiting times, and light changes for pedestrians and vehicles. By adjusting the timing of traffic lights and identifying peak hours, we demonstrated a noticeable reduction in red-light violations and an overall improvement in traffic fluidity.
 
 The final platform includes real-time statistics and an interactive map highlighting areas in need of infrastructure improvement.
+
+Here I uploaded the code of the database, and also the powerpoint presentation of the project which shows the functionalities of the database and also examples of queries.
